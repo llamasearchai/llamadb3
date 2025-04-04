@@ -160,7 +160,7 @@ Licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support & Community 💬
 
-*   **Issues**: [GitHub Issues](https://github.com/llamasearchai/llamadb3/issues) *(Update link)*
+*   **Issues**: [GitHub Issues](https://llamasearch.ai *(Update link)*
 *   **Discord**: [Community Discord](https://discord.gg/llamasearch) *(Update link)*
 
 ---
