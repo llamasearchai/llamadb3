@@ -4,14 +4,14 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="llamadb3",
+    name="llamadb3-llamasearch",
     version="0.1.0",
-    author="LlamaSearch.ai",
-    author_email="info@llamasearch.ai",
+    author="LlamaSearch AI",
+    author_email="nikjois@llamasearch.ai",
     description="Database management and query optimization library for Python",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/llamasearch/llamadb3",
+    url="https://llamasearch.ai",
     package_dir={"": "src"},
     packages=find_packages(where="src"),
     classifiers=[
